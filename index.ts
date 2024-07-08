@@ -129,7 +129,7 @@ Deno.serve(
         : "";
 
       const about =
-        "[Source Code](https://github.com/ni554n/truecallerjs_bot) *\\|* [anissan\\.com](https://anissan.com)";
+        "[😈Owner😈](https://t.me/Abu_Hadieda) *\\";
 
       return sendTgMessage(`${status}${installationId}\n\n${about}`, true);
     }
